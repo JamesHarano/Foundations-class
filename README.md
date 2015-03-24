@@ -7,4 +7,5 @@ Repo for Foundations Class - James Harano
 
 #### Instructors: Joshua and Jordan
 
+Added a Contubuting Guidelines (Contributing.md)
 
